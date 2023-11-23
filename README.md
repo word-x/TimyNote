@@ -18,3 +18,7 @@ What we want is a light-weight and super fast note software based on browser tha
 - Users who enjoy jotting down work notes, personal diaries, or ideas.
 - Users who dislike complexity and embrace minimalism.
 
+## Roadmap
+1. PC side development: general features finished.
+2. Modify LocalDiary (Android/iOS side) to sync data with PC side.
+3. Current features improvement and new features development. 
