@@ -1,6 +1,5 @@
 # LocalNote
-![favicon](https://github.com/word-x/LocalNote/assets/29170706/0bd3607a-f852-4301-93e0-752b2df14ff9=300x200)
-
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
 LocalNote is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
 
 ## Homepage
