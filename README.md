@@ -1,8 +1,9 @@
 # LocalNote
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+<img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="600" height="300">
 LocalNote is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
 
 ## Homepage
+
 https://www.word-x.com/apps/local-note
 
 ## Why we created LocalNote?
