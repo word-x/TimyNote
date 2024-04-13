@@ -1,5 +1,5 @@
 # LocalNote
-![local-note-github](https://github.com/word-x/LocalNote/assets/29170706/97c8c14b-5871-4a99-9a8e-4e29fa9ae835)
+![favicon](https://github.com/word-x/LocalNote/assets/29170706/0bd3607a-f852-4301-93e0-752b2df14ff9)
 
 LocalNote is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
 
