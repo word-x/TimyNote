@@ -1,3 +1,4 @@
+
 # LocalNote
 <img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
@@ -22,10 +23,11 @@ What we want is a light-weight and super fast note software based on browser tha
 - Users who dislike complexity and embrace minimalism.
 
 ## Download and installation
-#### 1 Install node.js
-https://nodejs.org/
-#### 2 Install Local Note
-- Download local-note.zip from https://github.com/word-x/LocalNote/releases, unzip the zip file to where you want
-- Double click install-windows.bat (only the first time)
-- Doule click start-windows.exe
-- Open http://localhost:3000 and start your writing
+#### Prepare
+Download and install node.js https://nodejs.org/
+#### Install Local Note
+ 1. Download *local-note.zip* from
+    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location    
+ 2. Double click *install-windows.bat* (only the first time) to load relative resources
+ 3. Doule click *start-windows.exe*
+ 4. Open http://localhost:3000 and start your writing
