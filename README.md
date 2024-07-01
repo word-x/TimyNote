@@ -1,12 +1,9 @@
 
+
 # LocalNote
 <img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
-LocalNote is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
-
-## Homepage
-
-https://www.word-x.com/apps/local-note
+[LocalNote](https://www.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
 
 ## Why do we created LocalNote?
 We attempted to use Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow. Subsequently, we tried other software like CherryTree, Notepad++, Joplin, Obsidian, etc. Although these products are excellent, but they have too much features that slow down their speed and use too much resouces.
