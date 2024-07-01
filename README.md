@@ -1,6 +1,5 @@
 # LocalNote
 <img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
-
 [LocalNote](https://www.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
 
 ## Why do we created LocalNote?
@@ -22,12 +21,12 @@ What we want is a light-weight and super fast note software based on browser tha
 Download node.js (Windows or MacOS version) and install node.js https://nodejs.org/
 ### 2.1 Install on Windows
 (1) Download *local-note.zip* from
-    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location    
+    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location 
 (2) Double click *install-windows.bat* (only the first time) to load relative resources
 (3) Doule click *start-windows.exe*
 (4) Open http://localhost:3000 and start your writing
 ### 2.2 Install on MAC
 pending...
 ## Reference
-- Homepage: https://www.word-x.com/
-- Docs: pending
+ - Homepage: https://www.word-x.com/ 
+ - Docs: pending
