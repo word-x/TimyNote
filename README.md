@@ -1,16 +1,23 @@
 # LocalNote
 <img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
-[LocalNote](https://www.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or other systems with browser installed.
+[LocalNote](https://www.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or any other systems with browser installed.
 
 ## Why do we created LocalNote?
-We attempted to use Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow. Subsequently, we tried other software like CherryTree, Notepad++, Joplin, Obsidian, etc. Although these products are excellent, but they have too much features that slow down their speed and use too much resouces.
 
-What we want is a light-weight and super fast note software based on browser that supports any system. Because everyone has a browser installed either on their phone/tablet or PC, and we use browser almost every day. We don't need to open a new software window. What we need is just a new tab in browser.
+Once we used Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow, especially when we have some big software running and the CPU usage was very high. Then, we tried some other software like CherryTree, Joplin, Obsidian, etc. Although these products are very excellent, but they have too much features that slow down their speed and use too much resouces.
+
+What we really want is a light-weight and super fast note software based on browser that supports any operation system. Because everyone has a browser installed on their PC, and we open and use browser almost every day. We don't need to open a new software window if we can write note in a browser tab.
 
 ## Philosophy
-- Think before write: Although LocalNote is lightweight and fast, it's crucial to avoid recording insignificant content. Simplify the contents mainly in brain, and use LocalNote to keep it.
-- Use text first, not image: Of course, we support inserting images but once you have several throunds of posts with many images attached, you'll probably not view those images again. This happens to your smart phone's gallery that we took a lot of photos every week but most rarely get a second look. 
+
+ - Think before write: simplify the contents mainly in brain, and use LocalNote to keep it.
+ - Minimalism: only  write important content
+ - Simple and fast: when we want to write something, it should start very fast, even the CPU usage is high  
+cross-platform: support any devices including PC and mobile devices
+ - Protect your privacy: no central cloud and you can fully controll your data
+ - Templates: remove repetitive typing and insert template with one click
+ - Mainly text: support image and table, but mainly text. Too many images will be large and difficult to manage.
 
 ## Target users
 - Try to find a multi-platform note app that supports Windows/Mac/Linux/Android/iOS and other OS with browser installed.
