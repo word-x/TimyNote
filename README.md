@@ -7,7 +7,7 @@ LocalNote is a note software that supports Android, iOS, Linux, Windows, MAC sys
 
 https://www.word-x.com/apps/local-note
 
-## Why we created LocalNote?
+## Why do we created LocalNote?
 We attempted to use Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow. Subsequently, we tried other software like CherryTree, Notepad++, Joplin, Obsidian, etc. Although these products are excellent, but they have too much features that slow down their speed and use too much resouces.
 
 What we want is a light-weight and super fast note software based on browser that supports any system. Because everyone has a browser installed either on their phone/tablet or PC, and we use browser almost every day. We don't need to open a new software window. What we need is just a new tab in browser.
@@ -21,7 +21,11 @@ What we want is a light-weight and super fast note software based on browser tha
 - Users who enjoy jotting down work notes, personal diaries, or ideas.
 - Users who dislike complexity and embrace minimalism.
 
-## Roadmap
-1. PC side development: general features finished.
-2. Modify LocalDiary (Android/iOS side) to sync data with PC side.
-3. Current features improvement and new features development. 
+## Download and installation
+#### 1 Install node.js
+https://nodejs.org/
+#### 2 Install Local Note
+- Download local-note.zip from https://github.com/word-x/LocalNote/releases, unzip the zip file to where you want
+- Double click install-windows.bat (only the first time)
+- Doule click start-windows.exe
+- Open http://localhost:3000 and start your writing
