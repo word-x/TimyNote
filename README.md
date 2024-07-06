@@ -37,5 +37,5 @@ Download node.js (Windows or MacOS version) and install node.js https://nodejs.o
 ### 2.2 Install on MAC
 pending...
 ## Reference
-- Homepage: https://localnote.word-x.com/blog/
+- Homepage: https://localnote.word-x.com/
 - Docs: https://localnote.word-x.com/blog/
