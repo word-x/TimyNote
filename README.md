@@ -1,3 +1,4 @@
+
 # LocalNote
 <img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
@@ -35,7 +36,11 @@ Download node.js (Windows or MacOS version) and install node.js https://nodejs.o
 3. Doule click *start-windows.exe*
 4. Open http://localhost:3000 and start your writing
 ### 2.2 Install on MAC
-pending...
+1. Download *local-note.zip* from
+    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
+2. Double click *install-plugins* (only the first time) to load relative resources
+3. Doule click *start*
+4. Open http://localhost:3000 and start your writing
 ## Reference
 - Homepage: https://localnote.word-x.com/
 - Docs: https://localnote.word-x.com/blog/
