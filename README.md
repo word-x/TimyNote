@@ -34,6 +34,7 @@ https://nodejs.org/en/download/prebuilt-installer
 - Download LocalNote-Windows.zip from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
 - Double click install-windows.bat (only the first time) to load relative resources
 - Doule click start.exe
+
 - Open http://localhost:3000 and start your writing
 #### 2.2 Install on MAC
 - Download LocalNote-MacOS.tar.gz from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
@@ -43,3 +44,5 @@ https://nodejs.org/en/download/prebuilt-installer
 ## Reference
 - Homepage: https://localnote.word-x.com/
 - Docs: https://localnote.word-x.com/blog/
+## Donate
+![donate](https://github.com/user-attachments/assets/f0329436-4778-465b-aa16-8435035e2b53)
