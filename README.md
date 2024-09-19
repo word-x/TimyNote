@@ -44,5 +44,5 @@ https://nodejs.org/en/download/prebuilt-installer
 ## Reference
 - Homepage: https://localnote.word-x.com/
 - Docs: https://localnote.word-x.com/blog/
-## Donate
-![donate](https://github.com/user-attachments/assets/f0329436-4778-465b-aa16-8435035e2b53)
+## [Donate]([url](https://buy.stripe.com/bIYdRq54ugIB5iwdQW))
+[![donate](https://github.com/user-attachments/assets/f0329436-4778-465b-aa16-8435035e2b53)]([url](https://buy.stripe.com/bIYdRq54ugIB5iwdQW))
