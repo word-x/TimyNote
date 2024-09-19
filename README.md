@@ -27,20 +27,19 @@ cross-platform: support any devices including PC and mobile devices
 
 ## Download and installation
 ### 1 Prepare
-Download node.js (Windows or MacOS version) and install node.js https://nodejs.org/
-### 2.1 Install on Windows
-
-1. Download *local-note.zip* from
-    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
-2. Double click *install-windows.bat* (only the first time) to load relative resources
-3. Doule click *start-windows.exe*
-4. Open http://localhost:3000 and start your writing
-### 2.2 Install on MAC
-1. Download *local-note.zip* from
-    https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
-2. Double click *install-plugins* (only the first time) to load relative resources
-3. Doule click *start*
-4. Open http://localhost:3000 and start your writing
+Download and install node.js (choose the Prebuilt Installer)
+https://nodejs.org/en/download/prebuilt-installer
+### 2 Install LocalNote
+#### 2.1 Install on Windows
+- Download local-note.zip from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
+- Double click install-windows.bat (only the first time) to load relative resources
+- Doule click start-windows.exe
+- Open http://localhost:3000 and start your writing
+#### 2.2 Install on MAC
+- Download local-note.zip from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
+- Double click install-plugins (only the first time) to load relative resources
+- Doule click start
+- Open http://localhost:3000 and start your writing
 ## Reference
 - Homepage: https://localnote.word-x.com/
 - Docs: https://localnote.word-x.com/blog/
