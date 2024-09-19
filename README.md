@@ -1,10 +1,10 @@
 
-# LocalNote
-<img src="https://github.com/word-x/LocalNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
+# TimyNote
+<img src="https://github.com/word-x/TimyNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
-[LocalNote](https://localnote.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or any other systems with browser installed.
+[TimyNote](https://timynote.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or any other systems with browser installed.
 
-## Why do we created LocalNote?
+## Why do we created TimyNote?
 
 Once we used Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow, especially when we have some big software running and the CPU usage was very high. Then, we tried some other software like CherryTree, Joplin, Obsidian, etc. Although these products are very excellent, but they have too much features that slow down their speed and use too much resouces.
 
@@ -12,7 +12,7 @@ What we really want is a light-weight and super fast note software based on brow
 
 ## Philosophy
 
- - Think before write: simplify the contents mainly in brain, and use LocalNote to keep it.
+ - Think before write: simplify the contents mainly in brain, and use TimyNote to keep it.
  - Minimalism: only  write important content
  - Simple and fast: when we want to write something, it should start very fast, even the CPU usage is high  
 cross-platform: support any devices including PC and mobile devices
@@ -29,20 +29,20 @@ cross-platform: support any devices including PC and mobile devices
 ### 1 Prepare
 Download and install node.js (choose the Prebuilt Installer)
 https://nodejs.org/en/download/prebuilt-installer
-### 2 Install LocalNote
+### 2 Install
 #### 2.1 Install on Windows
-- Download LocalNote-Windows.zip from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
+- Download TimyNote-Windows.zip from https://github.com/word-x/TimyNote/releases, then unzip the zip file to a permanent location
 - Double click install-windows.bat (only the first time) to load relative resources
 - Doule click start.exe
 
 - Open http://localhost:3000 and start your writing
 #### 2.2 Install on MAC
-- Download LocalNote-MacOS.tar.gz from https://github.com/word-x/LocalNote/releases, then unzip the zip file to a permanent location
+- Download TimyNote-MacOS.tar.gz from https://github.com/word-x/TimyNote/releases, then unzip the zip file to a permanent location
 - Double click install-plugins (only the first time) to load relative resources
 - Doule click start
 - Open http://localhost:3000 and start your writing
 ## Reference
-- Homepage: https://localnote.word-x.com/
-- Docs: https://localnote.word-x.com/blog/
+- Homepage: https://timynote.word-x.com/
+- Docs: https://timynote.word-x.com/blog/
 ## [Donate]([url](https://buy.stripe.com/bIYdRq54ugIB5iwdQW))
 [![](https://github.com/user-attachments/assets/f0329436-4778-465b-aa16-8435035e2b53)](https://buy.stripe.com/bIYdRq54ugIB5iwdQW)
