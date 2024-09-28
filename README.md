@@ -1,4 +1,4 @@
-
+# Please download the latest **[v1.0.3 - 1](https://github.com/word-x/TimyNote/releases/tag/TimyNote1.0.3-1)** version (or a newer version). And replace all files except the contents folder. In this version, all advanced functions are unlocked, and there is no limit on the number of categories and templates!
 # TimyNote
 <img src="https://github.com/word-x/TimyNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
