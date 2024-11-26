@@ -11,9 +11,9 @@ Once we used Wordpress as our local note-taking tool, but when our notes exceede
 What we really want is a light-weight and super fast note software based on browser that supports any operation system. Because everyone has a browser installed on their PC, and we open and use browser almost every day. We don't need to open a new software window if we can write note in a browser tab.
 
 ## How to install and use TimyNote?
-- PC: [https://github.com/word-x/TimyNote/releases](url),unzip and click start to run TimyNote.
-- PlayStore (TimyNote): Pending...
-- AppStore (TimyNote): [https://apps.apple.com/us/app/timynote/id6738576705](url)
+- PC (Windows/Mac/Linux): [https://github.com/word-x/TimyNote/releases](url), unzip and click start to run TimyNote.
+- iOS AppStore (TimyNote): [https://apps.apple.com/us/app/timynote/id6738576705](url)
+- Android PlayStore (TimyNote): Pending...
 
 ## Philosophy
  - Think before write: simplify the contents mainly in brain, and use TimyNote to keep it.
