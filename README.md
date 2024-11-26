@@ -3,10 +3,10 @@
 # TimyNote
 <img src="https://github.com/word-x/TimyNote/assets/29170706/c5b0d5db-0470-4254-b51f-96007eccd00e"  width="150" height="150">
 
-[TimyNote](https://timynote.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, MAC system or any other systems with browser installed.
+[TimyNote](https://timynote.word-x.com/) is a note software that supports Android, iOS, Linux, Windows, Mac system and any other systems with browser installed.
 
 ## Why do we create TimyNote?
-Once we used Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow, especially when we have some big software running and the CPU usage was very high. Then, we tried some other software like CherryTree, Joplin, Obsidian, etc. Although these products are very excellent, but they have too much features that slow down their speed and use too much resouces.
+Once we used Wordpress as our local note-taking tool, but when our notes exceeded 2,000, it became heavy and slow, especially when we have some big software running and the CPU usage was very high. Then, we tried some other software like CherryTree, Joplin, Obsidian, etc. Although these products are very excellent, they have too much features that slow down their speed and use too much resources.
 
 What we really want is a light-weight and super fast note software based on browser that supports any operation system. Because everyone has a browser installed on their PC, and we open and use browser almost every day. We don't need to open a new software window if we can write note in a browser tab.
 
