@@ -14,7 +14,8 @@ What we really want is a light-weight and super fast note software based on brow
 - PC (Windows/Mac/Linux): [https://github.com/word-x/TimyNote/releases](url), unzip and click start to run TimyNote.
 - iOS AppStore (TimyNote): [https://apps.apple.com/us/app/timynote/id6738576705](url)
 - Android PlayStore (TimyNote): Pending...
-[How to configure WebDAV to synchronize your data?]([url](https://localhost/bird-cms-timynote/post/11.html))
+## How to configure WebDAV to synchronize your data?
+[https://localhost/bird-cms-timynote/post/11.html](url)
 ## Philosophy
  - Think before write: simplify the contents mainly in brain, and use TimyNote to keep it.
  - Minimalism: only  write important content
