@@ -12,7 +12,8 @@ What we really want is a light-weight and super fast note software based on brow
 
 ## How to install and use TimyNote?
 Just download in the [releases](https://gitee.com/word-x/timynote/releases), unzip and click start to run TimyNote.
-https://timynote.word-x.com/page/install-local-note.html
+PlayStore (TimyNote): Pending...
+AppStore (TimyNote): https://apps.apple.com/us/app/timynote/id6738576705
 
 ## Philosophy
  - Think before write: simplify the contents mainly in brain, and use TimyNote to keep it.
