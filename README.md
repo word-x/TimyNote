@@ -13,7 +13,7 @@ What we really want is a light-weight and super fast note software based on brow
 ## How to install and use TimyNote?
 - PC (Windows/Mac/Linux): [https://github.com/word-x/TimyNote/releases](url), unzip and click start to run TimyNote.
 - iOS AppStore (TimyNote): [https://apps.apple.com/us/app/timynote/id6738576705](url)
-- Android PlayStore (TimyNote): Pending...
+- Android PlayStore (TimyNote): https://play.google.com/store/apps/details?id=com.wordx.timy_note
 ## How to configure WebDAV to synchronize your data?
 [https://localhost/bird-cms-timynote/post/11.html](url)
 ## Philosophy
